@@ -1,2 +1,1 @@
-#CSC3916_HW1
-https://www.getpostman.com/collections/e6280873d3420530896b
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/e6280873d3420530896b)
