@@ -1,0 +1,25 @@
+
+{
+  "name": "CSC3916_HW1",
+  "version": "1.0.0",
+  "description": "\"# HM1\"",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmidanaGoldeen/CSC3916_HW1.git"
+  },
+  "keywords": [],
+  "author": "AmidanaGoldeen <carlos.larosa@ucdenver.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmidanaGoldeen/CSC3916_HW1/issues"
+  },
+  "homepage": "https://github.com/AmidanaGoldeen/CSC3916_HW1#readme"
+}
